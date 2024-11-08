@@ -2,6 +2,10 @@
 
 `My-modal-test-bf` est un composant de modal pour React. Il permet d'afficher un message en overlay centré avec un bouton de fermeture.
 
+## Prérequis
+
+- **Node.js** : Version 16.x ou supérieure recommandée.
+
 ## Installation
 
 Installez le package via npm :
